@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.frases_do_dia",
+  "variantName": "debug",
+  "elements": []
+}

@@ -1,0 +1,4 @@
+#Sat May 21 18:30:26 BRT 2022
+base.0=C\:\\Users\\Pichau\\StudioProjects\\frases_do_dia\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
