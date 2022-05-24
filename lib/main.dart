@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:math';
 
 void main(){
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     title: "Frases do dia",
     home: HomeStatful(),
     debugShowCheckedModeBanner: false,
